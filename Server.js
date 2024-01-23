@@ -5,7 +5,7 @@ const { json } = require("express");
 const mongoClient = mongodb.MongoClient;
 const app = express();
 const URL =
-    "mongodb+srv://kat369:Kathiravan1995@project-m-tool.xjuxrpd.mongodb.net/?retryWrites=true&w=majority";
+    "mongodb+srv://yaazhl369:yaazhlnitharsan522@project-m-tool.xjuxrpd.mongodb.net/?retryWrites=true&w=majority";
 const DB = "Zero-Hunger";
 
 
